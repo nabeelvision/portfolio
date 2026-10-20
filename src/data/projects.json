@@ -1,0 +1,84 @@
+[
+  {
+    "id": "squoosh-lite",
+    "title": "Free — Image Compressor Website",
+    "category": "SquooshLite",
+    "description": "A real-time tool with drag-and-drop images, Without Watermark, and friendly dashboard.",
+    "icon": "💼",
+    "themeClass": "p1",
+    "link": "https://imagecompressor-nabeelvision.netlify.app/",
+    "previewImage": "",
+    "caseStudy": {
+      "overview": "SquooshLite is a high-speed browser-based image compression and optimization utility. It lets users drop heavy PNG/JPG files and compress them instantly with zero server latency, no loss in perceptual quality, and completely watermark-free.",
+      "highlights": [
+        "Client-side instant compression with Canvas and Web Worker acceleration",
+        "Custom compression ratio slider with live before/after size comparisons",
+        "Bulk image conversion and one-click ZIP download",
+        "Fully responsive and mobile friendly interface"
+      ],
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "HTML5 Canvas API",
+        "Web Workers"
+      ],
+      "liveUrl": "https://imagecompressor-nabeelvision.netlify.app/",
+      "githubUrl": "https://github.com/nabeelvision"
+    }
+  },
+  {
+    "id": "shop-nova",
+    "title": "ShopNova — Modern Commerce Platform",
+    "category": "E-Commerce",
+    "description": "Full-stack e-commerce solution with payment integration, inventory management, and real-time order tracking.",
+    "icon": "🛒",
+    "themeClass": "p2",
+    "link": "https://github.com/nabeelvision",
+    "previewImage": "",
+    "caseStudy": {
+      "overview": "ShopNova is an enterprise-ready headless commerce solution built for high-throughput online stores. Features instant multi-faceted search, lightning fast cart interactions, automated inventory reconciliation, and webhook-driven order fulfillment.",
+      "highlights": [
+        "Secure multi-gateway payment processing (Stripe & PayPal)",
+        "Real-time inventory deduction & low-stock notification triggers",
+        "Customer dashboard with live delivery tracking map & receipt downloads",
+        "Sub-second page loads powered by server-side rendering & edge caching"
+      ],
+      "techStack": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe API",
+        "Redis"
+      ],
+      "githubUrl": "https://github.com/nabeelvision"
+    }
+  },
+  {
+    "id": "data-pulse",
+    "title": "DataPulse — Analytics Dashboard",
+    "category": "Dashboard & Analytics",
+    "description": "Beautiful data visualization platform with interactive charts, custom reports, and multi-source data integration.",
+    "icon": "📊",
+    "themeClass": "p3",
+    "link": "https://github.com/nabeelvision",
+    "previewImage": "",
+    "caseStudy": {
+      "overview": "DataPulse transforms complex telemetry and marketing data streams into actionable executive dashboards. It aggregates events from multiple cloud providers and databases, providing real-time KPI monitoring and automated weekly reports.",
+      "highlights": [
+        "Dynamic drill-down interactive time series charts and choropleth maps",
+        "Custom SQL query builder with CSV/PDF reporting export",
+        "Role-based granular access control for teams and client stakeholders",
+        "WebSocket live metric stream with automated anomaly detection alerts"
+      ],
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Chart.js / D3"
+      ],
+      "githubUrl": "https://github.com/nabeelvision"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Nabeel Vision Portfolio",
+  "description": "Professional portfolio for Nabeel Ahmad - Full Stack AI & Web Developer showcasing modern web apps, AI projects, skills, experience, and contact links.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
